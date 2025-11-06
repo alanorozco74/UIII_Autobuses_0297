@@ -25,4 +25,4 @@
 - SQLite
 
 ---
-*Desarrollado para la actividad UIII Act 2 - CBTis 128*
+*Desarrollado por Alan Orozco - CBTis 128*
